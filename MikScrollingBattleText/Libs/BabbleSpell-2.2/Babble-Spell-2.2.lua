@@ -1013,6 +1013,8 @@ BabbleSpell:RegisterTranslations("enUS", function()
 		["Tremor Totem"] = true,
 		["Tribal Leatherworking"] = true,
 		["Trueshot Aura"] = true,
+			-- turtlewow hunter 
+		["Trueshot"] = true,
 		["Turn Undead"] = true,
 		["Two-Handed Axes and Maces"] = true,
 		["Two-Handed Axes"] = true,
@@ -4062,6 +4064,8 @@ local spellIcons = {
 	["Travel Form"] = "Ability_Druid_TravelForm",
 	["Tremor Totem"] = "Spell_Nature_TremorTotem",
 	["Trueshot Aura"] = "Ability_TrueShot",
+	-- turtlewow hunter
+	["Trueshot"] = "Ability_Hunter_SteadyShot",
 	["Turn Undead"] = "Spell_Holy_TurnUndead",
 	["Two-Handed Axes and Maces"] = "INV_Axe_10",
 	["Two-Handed Axes"] = "INV_Axe_04",
